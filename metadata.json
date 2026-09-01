@@ -1,0 +1,6 @@
+{
+  "name": "مغامرات الأشكال – Fun Learning",
+  "description": "تطبيق تعليمي تفاعلي باللغة العربية لتعليم الهندسة والمحيط والمساحة لتلاميذ المرحلة الابتدائية عبر الاستكشاف والألغاز.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
